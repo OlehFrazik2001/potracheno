@@ -1,0 +1,50 @@
+.del-but , .edit-but{
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.edit-but {
+    color: #222220;
+    padding: 7px;
+}
+
+.ed-del-but {
+    grid-column-gap: 11px;
+}
+
+th {
+    font-weight: normal;
+    font-size: 25.7351px;
+    line-height: 30px;
+    color: #DCDCDC;
+}
+
+td {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    color: #DCDCDC;
+    text-align: center;
+}
+
+.dark-line {
+    height: 1px;
+    background: #3E3E3E;
+}
+
+table {
+    grid-column-gap: 60px;
+}
+
+.td {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    color: #DCDCDC;
+    text-align: center;
+}
