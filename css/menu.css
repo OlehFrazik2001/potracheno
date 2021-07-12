@@ -55,8 +55,8 @@ textarea {
     height: 50px;
     background: #CB3B48;
     border: 1px solid #CB3B48;
-    box-shadow: 0px 0px 15px #CB3B48;
-    border-radius: 0px 5px 5px 0px;
+    box-shadow: 0 0 15px #CB3B48;
+    border-radius: 0 5px 5px 0;
 }
 
 .filters {
@@ -69,7 +69,7 @@ textarea {
 }
 
 .filters button {
-    box-shadow: 0px 0px 14.9668px #CB3B48;
+    box-shadow: 0 0 14.9668px #CB3B48;
     padding: 15px 19px;
     font-weight: 600;
     font-size: 16px;
@@ -129,7 +129,7 @@ textarea {
 }
 
 .order {
-    padding: 20px 0 0 0;
+    padding: 20px 35px 0;
     margin-top: -17px;
     background: url("../images/Слой 4 2.png");
 }
@@ -144,7 +144,7 @@ textarea {
     height: 9px;
     width: 210px;
     background: #CB3B48;
-    border-radius: 25px 25px 0px 0px;
+    border-radius: 25px 25px 0 0;
 }
 
 .order h3 {
@@ -159,7 +159,93 @@ textarea {
     margin-bottom: 25px;
 }
 
-.box {
+.boxes {
     margin-top: 43px;
 }
 
+.three-dot {
+    left: -400px;
+    top: 503px;
+    grid-column-gap: 7px;
+}
+
+.three-boxes {
+    margin-bottom: 41px;
+}
+
+
+.chief-order {
+    background: url("../images/Слой 4 1 (1).png");
+    position: relative;
+    left: -370px;
+    padding: 29px 70px;
+}
+
+.chief-order h3 {
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.chief-order > p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 48px;
+}
+
+.price > p {
+    background: #FFFFFF;
+    border-radius: 0px 42.5862px 42.5862px 0px;
+    color: #CB3B48;
+    padding: 5px 30px;
+    font-weight: bold;
+    font-size: 43.803px;
+    line-height: 51px;
+}
+
+.price span {
+    color: #CB3B48;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 51px;
+}
+
+.price button {
+    padding: 20px;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.price .m-but, .price .p-but {
+    padding: 5px 9px;
+}
+
+.price p {
+    padding: 5px 20px;
+    color: #818181;
+    background: #FFFFFF;
+}
+
+.price {
+    margin-bottom: 70px;
+}
+
+.green-text, .red-text {
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.green-text {
+    color: #6DAB58;
+}
+
+.red-text {
+    color: #A5344A;;
+}
+
+.shadow {
+    box-shadow: 0 0 14.9668px #CB3B48;
+    padding: 13px 34px;
+}

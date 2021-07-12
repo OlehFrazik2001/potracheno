@@ -1,0 +1,31 @@
+.wrap p {
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+.wrap li {
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+ul {
+    padding-left: 28px;
+    list-style-image: url("../images/rules/Ellipse 2521.png");
+}
+
+.top-photos {
+    margin-bottom: 111px;
+}
+
+.m-b-26 {
+    margin-bottom: 26px;
+}
+
+
+.m-b-63 {
+    margin-bottom: 63px;
+}

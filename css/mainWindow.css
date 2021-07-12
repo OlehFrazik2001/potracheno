@@ -45,7 +45,7 @@
 
 .red-line {
     background: #C93A48;
-    box-shadow: 0px 0px 10px #C93A48;
+    box-shadow: 0 0 10px #C93A48;
     border-radius: 100px;
     height: 2px;
     width: 60px;
@@ -95,7 +95,7 @@
     line-height: 39px;
 
     color: #CB3B48;
-    text-shadow: 0px 0px 45.2471px rgba(203, 59, 72, 0.5);
+    text-shadow: 0 0 45.2471px rgba(203, 59, 72, 0.5);
 }
 
 .white {
@@ -157,7 +157,7 @@
     line-height: 34px;
     text-transform: uppercase;
     color: #FFFFFF;
-    text-shadow: 0px 0px 30px rgba(255, 255, 255, 0.32);
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.32);
 }
 
 .right-in-main h2 {
@@ -193,7 +193,7 @@
     color: #CB3B48;
     width: 24px;
     font-size: 24px;
-    text-shadow: 0px 0px 30px #BD2D43;
+    text-shadow: 0 0 30px #BD2D43;
 
 }
 

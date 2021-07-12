@@ -1,0 +1,48 @@
+.hall {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #727272;
+    margin-bottom: 60px;
+}
+
+.photo {
+    margin-bottom: 26px;
+}
+
+.select-page {
+    grid-column-gap: 29px;
+}
+
+.current {
+    background: #161615;
+    border: 1px solid #CB3B48;
+    border-radius: 5px;
+}
+
+.current a {
+    color: #CB3B48;
+}
+
+.select-page p {
+    width: 26px;
+    height: 26px;
+}
+
+.select-page a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 10px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.photos .hall {
+    margin-bottom: 25px;
+}
+
+.five-photos {
+    margin-bottom: 82px;
+}
